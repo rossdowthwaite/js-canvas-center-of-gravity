@@ -1,10 +1,10 @@
-# Donuts!
+# Canvas Centre of Gravity!
 
-![Falling donuts! AGGHHH](https://github.com/rossdowthwaite/js-canvas-center-of-gravity/blob/master/cog.png?raw=true)
+![Screenshot](https://github.com/rossdowthwaite/js-canvas-center-of-gravity/blob/master/cog.png?raw=true)
 
-## Introduction
+## Description
 
-Donuts, everywhere!
+Floating balls attracted to a centre of gravity.
 
 ## How to use
 
@@ -22,7 +22,3 @@ npm install
 ### Devlopment
 
 * Ross Dowthwaite
-
-### Design
-
-* Vicky Styles
